@@ -1,0 +1,27 @@
+body {
+    background: #9792E3;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+
+.heading {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #61E786;
+    display: flexbox;
+    text-align: center;
+    background: #48435C;
+    paddingtop;
+
+}
+
+.subheading {
+    /* display: flexbox; */
+    text-align: center;
+}
+
+.boxes {
+    width: 100px;
+    margin: 0 auto;
+
+}
